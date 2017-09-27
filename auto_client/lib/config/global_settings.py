@@ -1,0 +1,7 @@
+
+
+TEST = True
+
+NAME = "WANG"
+
+
